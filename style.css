@@ -54,11 +54,11 @@ h1 {
     z-index:99999
 }
 
-input
+.input
 {
     background: grey;
 }
-img
+.img
 {
     width: 50;
     height:20; 
